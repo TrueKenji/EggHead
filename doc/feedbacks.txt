@@ -1,0 +1,4 @@
+philipp: öffentlich info müssen alle gleich haben -> mastertable. Kombinationen in matrix abbilden
+max: 2 mal hin und her interpretieren, dann fehlt die beobachtbare reaktion
+tobi: loop bis zu konvergenz
+sebo: mastertable

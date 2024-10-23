@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/bot/CommonInformation.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>67</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/Sicherung/Dokumente/NetBeansProjects/EggHead/src/bot/StackScenario.java</file>
+            <file>file:/E:/Sicherung/Dokumente/NetBeansProjects/EggHead/src/model/Stack.java</file>
+            <file>file:/E:/Sicherung/Dokumente/NetBeansProjects/EggHead/src/controller/EggHeadController.java</file>
+            <file>file:/E:/Sicherung/Dokumente/NetBeansProjects/EggHead/src/controller/ViewController.java</file>
+            <file>file:/E:/Sicherung/Dokumente/NetBeansProjects/EggHead/src/utils/Option.java</file>
+            <file>file:/E:/Sicherung/Dokumente/NetBeansProjects/EggHead/src/utils/Combinatorics.java</file>
+            <file>file:/E:/Sicherung/Dokumente/NetBeansProjects/EggHead/src/bot/ProjectionTables.java</file>
+            <file>file:/E:/Sicherung/Dokumente/NetBeansProjects/EggHead/src/logger/ConsoleLogger.java</file>
+            <file>file:/E:/Sicherung/Dokumente/NetBeansProjects/EggHead/src/bot/BotController.java</file>
+            <file>file:/E:/Sicherung/Dokumente/NetBeansProjects/EggHead/src/controller/FrameViewController.java</file>
+            <file>file:/E:/Sicherung/Dokumente/NetBeansProjects/EggHead/src/bot/CommonInformation.java</file>
+            <file>file:/E:/Sicherung/Dokumente/NetBeansProjects/EggHead/src/bot/PlayerBot.java</file>
+            <file>file:/E:/Sicherung/Dokumente/NetBeansProjects/EggHead/src/model/GameModel.java</file>
+            <file>file:/E:/Sicherung/Dokumente/NetBeansProjects/EggHead/src/view/GamePanel.java</file>
+            <file>file:/E:/Sicherung/Dokumente/NetBeansProjects/EggHead/src/model/Model.java</file>
+            <file>file:/E:/Sicherung/Dokumente/NetBeansProjects/EggHead/src/bot/ConditionalInformation.java</file>
+            <file>file:/E:/Sicherung/Dokumente/NetBeansProjects/EggHead/src/bot/stats/Statistics.java</file>
+            <file>file:/E:/Sicherung/Dokumente/NetBeansProjects/EggHead/src/logger/Logger.java</file>
+            <file>file:/E:/Sicherung/Dokumente/NetBeansProjects/EggHead/src/question/QuestionList.java</file>
+            <file>file:/E:/Sicherung/Dokumente/NetBeansProjects/EggHead/src/view/PlayerBoxPanel.java</file>
+        </group>
+    </open-files>
+</project-private>

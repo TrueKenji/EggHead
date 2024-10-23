@@ -1,0 +1,21 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}Introduction}{2}{}%
+\contentsline {section}{\numberline {2}Game description}{2}{}%
+\contentsline {subsection}{\numberline {2.1}Overview}{2}{}%
+\contentsline {subsection}{\numberline {2.2}Setup}{2}{}%
+\contentsline {subsection}{\numberline {2.3}Round}{3}{}%
+\contentsline {subsection}{\numberline {2.4}Solving step}{3}{}%
+\contentsline {subsection}{\numberline {2.5}End of the game}{3}{}%
+\contentsline {section}{\numberline {3}Basic deduction}{3}{}%
+\contentsline {subsection}{\numberline {3.1}Discussion of randomness and actions}{3}{}%
+\contentsline {subsection}{\numberline {3.2}Information flow}{3}{}%
+\contentsline {subsection}{\numberline {3.3}Putting together the maths}{4}{}%
+\contentsline {section}{\numberline {4}Behaviour analysis}{5}{}%
+\contentsline {subsection}{\numberline {4.1}Understanding the concept}{5}{}%
+\contentsline {subsection}{\numberline {4.2}Updating conditional Information based on q/a and reactions}{9}{}%
+\contentsline {subsection}{\numberline {4.3}Updating conditional Information after a solving step}{10}{}%
+\contentsline {subsection}{\numberline {4.4}Algorithmic depiction}{11}{}%
+\contentsline {section}{\numberline {5}Results}{11}{}%
+\contentsline {section}{\numberline {A}Appendix}{14}{}%
+\contentsline {subsection}{\numberline {A.1}Master Table}{14}{}%
+\contentsline {subsection}{\numberline {A.2}Variants}{16}{}%

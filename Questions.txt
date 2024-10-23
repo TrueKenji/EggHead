@@ -1,0 +1,23 @@
+0. Welcher Buchstabe ist der seltenste?
+1. Wie hoch ist die größte Anzahl desselben Buchstabens auf allen Kartenhaltern zusammen?
+2. Welcher Buchstabe überwiegt?
+3. Wieviele Buchstaben kommen insgesamt nur ein einziges Mal vor?
+4. Sehen Sie öfter die Kombination A und E oder die Kombination B und G?
+5. Sehen Sie öfter die Kombination B und E oder die Kombination C und D?
+6. Fehlen irgendwelche Buchstaben?
+7. Wie oft sehen sie die Karten D, E und G insgesamt?
+8. Kommt ein Buchstabe öfter vor als alle anderen? Wenn ja, wer hat davon die meisten?
+9. Kommt ein Buchstabe öfter vor als alle anderen? Wenn ja, auf wie vielen Kartenhaltern erscheint dieser Buchstabe?
+10. Wie viele verschiedene Buchstaben sehen Sie?
+11. Wieviele Buchstaben fehlen?
+12. Wieviele Buchstaben gibt es insgesamt genau zwei Mal?
+13. Auf welchem Kartenhalter sehen Sie die größte Kartenzahl B, C und D in beliebiger Häufung und Kombination?
+14. Wieviele Buchstaben erscheinen dreimal und öfter?
+15. Sehen Sie einen Buchstaben mindestens viermal?
+16. Sehen Sie auf einem Kartenhalter zwei oder mehr gleiche Buchstaben? Wie oft?
+17. Sehen Sie die gleiche Kombination von zwei Buchstaben auf zwei oder mehr Kartenhaltern?
+18. Sehen Sie mindestens einen Buchstaben auf jedem Kartenhalter?
+19. Hat Ihr linker Nachbar einen Buchstaben, der sonst nirgendwo vorkommt?
+20. Beantworten Sie diesmal keine Frage, sondern mischen Sie alle Fragen gründlich
+21. Sie dürfen jetzt ungestraft raten, was Sie auf dem Kartenhalter haben. Wenn Sie falsch geraten haben, verlieren Sie nicht Ihre Karten. Beantworten Sie dann die Frage auf der nächsten Karte
+22. Sie dürfen eine beliebige Karte vom Kartenhalter nehmen. Geben Sie diese, ohne den Buchstaben anzuschauen, ins Spielkartenpaket zurück. Sie brauchen jetzt also eine Karte weniger zu erraten. Beantworten Sie dann die Frage auf der nächsten Karte
