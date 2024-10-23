@@ -14,7 +14,7 @@ public class Stack extends ArrayList<Integer> implements Comparable {
     /**
      * Upper bound for the range of card values.
      */
-    public static int CARDSSIZE = 6;
+    public static int CARDSSIZE = 4;
     /**
      * Number of cards per player.
      */

@@ -44,8 +44,8 @@ public interface Option {
 
     public static Map<Class<? extends Option>, Option> getDefaultOptions() {
         Map<Class<? extends Option>, Option> options = new HashMap();
-        options.put(VIEW.class, VIEW.NONE);
-        options.put(MODE.class, MODE.CONTINUOUS);
+        options.put(VIEW.class, VIEW.FRAME);
+        options.put(MODE.class, MODE.USER_CONTROLLED);
         options.put(PLAYER.class, PLAYER.BOT);
         options.put(DIFFICULTY.class, DIFFICULTY.LEVEL_3);
         options.put(SPEED.class, SPEED.FAST);
